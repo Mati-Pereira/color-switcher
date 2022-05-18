@@ -1,0 +1,9 @@
+{
+    "name": "colorswither",
+    "version": "1.0.0",
+    "description": "Press the button and the color will change.",
+    "main": "index.js",
+    "keywords": [],
+    "author": "Matheus Rodrigues Pereira",
+    "license": "ISC"
+}

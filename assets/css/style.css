@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Macondo', cursive;
+}
+
+.container {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+h1 {
+    padding: 5rem;
+    font-size: 4rem;
+    filter: contrast(1);
+    color: rgb(114, 114, 114);
+}
+
+p {
+    padding: 3rem;
+    font-size: 2rem;
+    color: rgb(114, 114, 114);
+}
+
+button {
+    color: rgb(114, 114, 114);
+    margin-top: 8rem;
+    padding: 2rem 4rem;
+    border: 0;
+    border-radius: 25px;
+    font-size: 2rem;
+    font-weight: 700;
+    background-color: antiquewhite;
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.5);
+}
+
+button:hover {
+    transition: 50ms;
+    border: 2px transparent black;
+    outline: none;
+    cursor: pointer;
+}
+
+button:active {
+    transform: scale(0.95);
+    /* Scaling button to 0.98 to its original size */
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+    /* Lowering the shadow */
+}
+
+body {
+    transition: background-color 1000ms linear;
+}
