@@ -16,7 +16,7 @@ body {
 
 button {
     color: var(--text-color);
-    margin-top: 4rem;
+    margin-top: 2rem;
     padding: 1.5rem 4rem;
     border: 0;
     border-radius: 25px;
@@ -53,6 +53,7 @@ button:active {
     background-color: var(--secondary-color);
     margin: 3rem 12rem;
     border-radius: 75px;
+    min-width: 400px;
     padding: 3rem;
     font-size: 2rem;
     color: var(--text-color);
