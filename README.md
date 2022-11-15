@@ -1,5 +1,5 @@
 
-# colorSwither
+# color-switcher
 
 Aplicação que quando o usuário apertar o botão, uma cor aleatória será mostrada de fundo
 
