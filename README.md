@@ -9,7 +9,7 @@ Aplicação que quando o usuário apertar o botão, uma cor aleatória será mos
 
 ## Demo
 
-[Demo](https://mati-pereira.github.io/colorSwither/)
+https://taupe-donut-793d9d.netlify.app/
 
 ## Licença
 
